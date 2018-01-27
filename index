@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
 
@@ -8,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-#About - Neighborhood Pantry</title>
+    <title>The Problem - Neighborhood Pantry</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -79,18 +80,40 @@
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">About
-                        <strong>Neighborhood Pantry</strong>
+                    <h2 class="intro-text text-center">The
+                        <strong>Problems We Face</strong>
                     </h2>
                     <hr>
                 </div>
-                <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="http://www.thelocalpantry.co.uk/images/large_shop.jpg" alt="">
+                <div class="col-md-2">
+                    <p>  </p>
                 </div>
                 <div class="col-md-6">
-                    <p2>In addition to sustainable social change, we believe passionately in health, community, good food, and great friends.</p2>
-                    <br><p2>(We are also passionate food lovers who know that you are not you when you are hungry!)</p2>
-            
+                  <img src="img/problem1.PNG" height = 550>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <img src="img/problem2.PNG" height = 550>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <img src="img/prob2p2.PNG" height = 550>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <img src="img/problem3.PNG" height = 550>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <img src="img/prob3p2.PNG" height = 550>
                 </div>
                 <div class="clearfix"></div>
             </div>
@@ -100,16 +123,28 @@
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">Our
-                        <strong>Team</strong>
+                    <h2 class="intro-text text-center">The
+                        <strong>Solution We Offer</strong>
                     </h2>
                     <hr>
                 </div>
-                <div class= "text-center">
-                    <!-- <img class="img-responsive" src="http://placehold.it/50x50" alt=""> -->
-                    <h3>Audrey Im, Shilpa Rao, Audrey Kurz, Laura Di Simone
-                    
-                    </h3>
+                <div class="col-md-2">
+                    <p> </p>
+                </div>
+                <div class= "col-md-6">
+                    <img src="img/solution.PNG" height = 550>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <img src="img/solup2.PNG" height = 550>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <img src="img/solup3.PNG" height = 550>
                 </div>
         
                 <div class="clearfix"></div>
